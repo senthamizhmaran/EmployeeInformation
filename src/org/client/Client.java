@@ -3,6 +3,7 @@ package org.client;
 public class Client {
 	public void clientName() {
 		System.out.println("Client name is cube and square");
+		System.out.println("@@@@@@@@@@@@@@@");
 	}
 
 }
